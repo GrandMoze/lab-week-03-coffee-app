@@ -14,8 +14,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/coffee_list"
-            android:textSize="30sp" />
+            android:textSize="30sp"
+            android:text="@string/coffee_list" />
 
         <View
             android:layout_width="match_parent"
